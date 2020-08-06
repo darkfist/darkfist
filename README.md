@@ -22,12 +22,12 @@
 ---
 
 ### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST-OFF:START -->
+<!-- BLOG-POST-LIST-OFF:END -->
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="darkfist's Github Stats" src="https://github-readme-stats.vercel.app/api?username=darkfist&show_icons=true&hide_border=true" />
 
 [website]: https://meetnishant.com
 [facebook]: https://www.facebook.com/nishant.ranjan.180/
