@@ -22,8 +22,8 @@
 ---
 
 ### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST-OFF:START -->
-<!-- BLOG-POST-LIST-OFF:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
