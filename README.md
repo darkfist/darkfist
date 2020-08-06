@@ -23,6 +23,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Top Three Growth Hacks That Will Skyrocket Your Online Business](https://blog.meetnishant.com/top-3-growth-hacks-for-your-online-business/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
