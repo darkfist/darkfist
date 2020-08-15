@@ -28,7 +28,7 @@
 
 ---
 
-<img align="left" alt="darkfist's Github Stats" src="https://github-readme-stats.vercel.app/api?username=darkfist&show_icons=true&hide_border=true" />
+<img align="left" alt="darkfist's Github Stats" src="https://readme-stats.netlify.app/api?username=darkfist&show_icons=true&hide_border=true" />
 
 [website]: https://meetnishant.com
 [facebook]: https://www.facebook.com/nishant.ranjan.180/
