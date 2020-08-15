@@ -7,6 +7,10 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I was socially distant before it was cool.
 
+### Spotify Playing 🎧
+[<img src="https://spotify-for-github-readme.vercel.app/api/spotify-playing" alt="Spotify Playing" width="400" />](https://open.spotify.com/user/5dap8av6zfs5etliunbd6bwpo)
+
+
 ### Connect with me:
 
 [<img align="left" alt="meetnishant.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
