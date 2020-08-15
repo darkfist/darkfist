@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I was socially distant before it was cool.
 
 ### Spotify Playing 🎧
-[<img src="https://spotify-for-github-readme.vercel.app/api/spotify-playing" alt="Spotify Playing" width="400" />](https://open.spotify.com/user/5dap8av6zfs5etliunbd6bwpo)
+[<img src="https://now-playing-profile.darkfist.vercel.app/now-playing" alt="Spotify Playing" width="400" />](https://open.spotify.com/user/5dap8av6zfs5etliunbd6bwpo)
 
 
 ### Connect with me:
