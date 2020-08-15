@@ -1,5 +1,5 @@
 ## Hi there, I'm Nishant Ranjan 👋
-### Check out my portfolio website - [MeetNishant][website]
+### Check out my portfolio site at [MeetNishant][website]
 
 ## I'm a Fullstack Developer, JavaScript Enthusiast, Designer, and Gamer!
 - 🌱 I’m currently learning everything 🤣
@@ -18,6 +18,13 @@
 
 <br />
 <br />
+
+---
+
+### :zap: Recent Github Activity
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
