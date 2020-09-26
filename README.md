@@ -28,7 +28,7 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com//novatorem/novatorem/pull/2) in [novatorem/novatorem](https://github.com//novatorem/novatorem)
+1. 💪 Opened PR [#2](https://github.com/novatorem/novatorem/pull/2) in [novatorem/novatorem](https://github.com/novatorem/novatorem)
 <!--END_SECTION:activity-->
 
 ---
